@@ -13,8 +13,3 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
 
 
 
-## Deliverables
-- Accurate predictive algorithms
-- Business case report to stakeholders
-
-
